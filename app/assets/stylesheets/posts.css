@@ -1,17 +1,27 @@
 .title{
   color: whitesmoke;
+  font-size: 100px;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .post{
-  border: 5px solid blueviolet;
+  border: 5px double white;
   width: 40%;
   margin-top: 30px;
 }
 
 .post-date{
-  color: gray;
+  color: white;
 }
 
 *{
-  background-color: grey;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.newpost{
+  color: white;
+  font-size: 23px;
+  text-decoration: none;
 }
